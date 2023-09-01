@@ -1,4 +1,4 @@
-# @suenot/send-mail
+# @suenot/mail-sender
 
 0. The package wraps the npm-package [nodemailer](https://nodemailer.com/)
 1. Prerequisites: an account on [gmail](https://gmail.com/) with an [App Password](https://knowledge.workspace.google.com/kb/how-to-generate-an-app-passwords-000009237)

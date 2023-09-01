@@ -1,4 +1,4 @@
-# @suenot/send-mail
+# @suenot/mail-sender
 
 0. Пакет оборачивает npm-package [nodemailer](https://nodemailer.com/)
 1. Пререквизиты: аккаунт на [gmail](https://gmail.com/) с [App Password](https://knowledge.workspace.google.com/kb/how-to-generate-an-app-passwords-000009237)

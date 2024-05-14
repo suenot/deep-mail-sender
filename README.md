@@ -12,3 +12,5 @@
     2. Create a `LetterText` object, in the value specify the text of the letter
     3. Create a `SendTo` object, in the value specify the email address of the recipient
 4. To send a letter, create a `SendEmail` object from an instance of the `LetterSubject` object to an instance of the `SendTo` object.
+
+Video tutoria: https://youtu.be/wQq--zyYqr8
